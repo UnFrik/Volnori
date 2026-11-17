@@ -20,7 +20,7 @@ Volnori — компактная панель для Windows 10/11. Музыка
 
 ## Установка
 
-Открой [Releases](https://github.com/UnFrik/Volnori/releases/latest), скачай `Volnori-Setup-1.3.2.exe` и следуй шагам установщика. Отдельная установка .NET не требуется. Поддерживается Windows 10/11 x64.
+Открой [Releases](https://github.com/UnFrik/Volnori/releases/latest), скачай `Volnori-Setup.exe` и следуй шагам установщика. Отдельная установка .NET не требуется. Поддерживается Windows 10/11 x64.
 
 Установщик пока не имеет цифровой подписи. Скачивай приложение только из релизов этого проекта.
 
